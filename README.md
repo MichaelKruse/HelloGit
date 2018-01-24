@@ -1,0 +1,2 @@
+# HelloGit
+Learning the ropes
